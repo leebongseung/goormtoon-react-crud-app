@@ -22,15 +22,15 @@
     ```markdown
     public
     ├── img
-    │ ├── airplane.svg
-    │ ├── pencil.svg
-    │ └── trash_can.svg
+    │   ├── airplane.svg
+    │   ├── pencil.svg
+    │   └── trash_can.svg
     └── src
-    ├── app.js
-    └── components
-    ├── BudgetForm.js
-    ├── BudgetItem.js
-    └── BudgetList.js
+        ├── app.js
+        └── components
+        ├── BudgetForm.js
+        ├── BudgetItem.js
+        └── BudgetList.js
     ```
 
 - 변수 이름
