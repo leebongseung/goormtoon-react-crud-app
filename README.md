@@ -20,17 +20,17 @@
 
   - 폴더 이름(컴포넌트, 이미지폴더 추가)
     ```html
-    public
-    ├── img
-    │   ├── airplane.svg
-    │   ├── pencil.svg
-    │   └── trash_can.svg
-    └── src
-        ├── app.js
-        └── components
-        ├── BudgetForm.js
-        ├── BudgetItem.js
-        └── BudgetList.js
+        ├── public
+        │   └── img
+        │       ├── airplane.svg
+        │       ├── pencil.svg
+        │       └── trash_can.svg
+        └── src
+            ├── app.js
+            └── components
+                ├── BudgetForm.js
+                ├── BudgetItem.js
+                └── BudgetList.js
     ```
 
 - 변수 이름
