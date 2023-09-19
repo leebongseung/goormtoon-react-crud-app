@@ -19,7 +19,7 @@
 - 폴더 이름 및 변수 이름을 명확하게 작성합니다.
 
   - 폴더 이름(컴포넌트, 이미지폴더 추가)
-    ```markdown
+    ```html
     public
     ├── img
     │   ├── airplane.svg
